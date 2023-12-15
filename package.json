@@ -3,7 +3,6 @@
   "description": "seal backend server",
   "version": "1.0.0",
   "author": "meraki",
-  "type": "module",
   "engines": {
     "node": ">=18.16.0",
     "npm": ">=9.5.1"
