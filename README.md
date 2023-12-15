@@ -9,6 +9,9 @@ Make sure to have all the necessary stuff to start building this up.
 ### Pre Requisites
 - Node >=18.16.0
 - Npm >=9.5.1
+- Postgres >= 12
+- Docker@last
+- DockerCompose@last
 
 ```bash
 npm i
